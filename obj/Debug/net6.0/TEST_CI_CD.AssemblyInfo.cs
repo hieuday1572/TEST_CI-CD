@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TEST_CI_CD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9229822828f5e46b67f131e865e65e4d05b6139e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51913c3eab517b3d2a9c71ee4ff047961f0b71b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TEST_CI_CD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TEST_CI_CD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
